@@ -1,6 +1,6 @@
 🏀 NBA Player Performance Tracker
 A responsive React/TypeScript application for analyzing NBA player statistics with interactive visualizations.
-🔗 Live Demo: https://mellow-sprinkles-304f2a.netlify.app
+🔗 Live Demo: [https://mellow-sprinkles-304f2a.netlify.app]
 ✨ Features
 Interactive Dashboard: Filter and sort players by stats (PPG, APG, RPG)
 Player Comparison: Side-by-side stat comparison with charts
